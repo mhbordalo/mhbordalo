@@ -1,6 +1,6 @@
 ## **Marcos Bordalo** 👋
 
-Olá, sou contador de formação que após muitos anos em diversas funções em gestão financeira, controladoria e auditoria, decidi mudar de carreira e me tornar um desenvolvedor. Por quê? Porque adoro tecnologia e desafios. Quando não estou programando, você pode me encontrar estudando, lendo livros ou assistindo a filmes e séries em algum streaming. Também gosto de passear com a familia e viajar para conhcecer novas culturas. 🌎
+Olá, sou contador de formação que após muitos anos em diversas funções em gestão financeira, controladoria e auditoria, decidi mudar de carreira e me tornar um desenvolvedor. Por quê? Porque adoro tecnologia e desafios. Quando não estou programando, você pode me encontrar estudando, lendo livros ou assistindo a filmes e séries em algum streaming. Também gosto de passear com a familia e viajar para conhecer novas culturas. 🌎
 
 Meus projetos de programação refletem minha personalidade: detalhista, técnica, funcional e criativa, sempre em busca de desafios. Gosto de experimentar diferentes tecnologias e frameworks e não tenho medo de testar novas tecnologias. É assim que se aprende, certo? 😉
 
