@@ -33,13 +33,13 @@ Meus projetos de programação refletem minha personalidade: detalhista, técnic
     <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <span>Git</span>
     <img alt="GitHub Actions" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" />
-    <span>GitHub Actions</span>
-    <img alt="CI/CD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" />
-    <span>CI/CD</span>
+    <span>GitHub</span>
     <img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
     <span>Docker</span>
     <img alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
     <span>Kubernetes</span>
+    <img alt="AWS" height="30" width="40" src="https://cdn.rswebsols.com/wp-content/uploads/2021/04/amazon-web-services-aws.jpg" />
+    <span>AWS</span>
     <img alt="Prometheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
     <span>Prometheus</span>
     <img alt="Grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
@@ -54,8 +54,6 @@ Meus projetos de programação refletem minha personalidade: detalhista, técnic
     <span>PostgreSQL</span>
     <img alt="Bootstrap" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <span>Bootstrap</span>
-    <img alt="AWS" height="30" width="40" src="https://cdn.rswebsols.com/wp-content/uploads/2021/04/amazon-web-services-aws.jpg" />
-    <span>AWS</span>
   </div>
 </div>
 
