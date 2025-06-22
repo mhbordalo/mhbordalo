@@ -23,12 +23,17 @@
   <img align="center" alt="SaSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" /> 
   <img align="center" alt="SaSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> 
 </div>
+
 #
 
 ### 📊 Stats
 
 <div align="center">
 ![ederson's github stats](https://github-readme-stats.vercel.app/api?username=mhbordalo&show_icons=true&theme=radical)
+</div>
+
 #
+
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhbordalo&theme=dark)
 </div>
