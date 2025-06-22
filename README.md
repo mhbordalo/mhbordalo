@@ -40,8 +40,6 @@ Meus projetos de programação refletem minha personalidade: detalhista, técnic
     <span>Docker</span>
     <img alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
     <span>Kubernetes</span>
-    <img alt="AWS" height="30" width="40" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
-    <span>AWS</span>
     <img alt="Prometheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
     <span>Prometheus</span>
     <img alt="Grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
@@ -56,6 +54,8 @@ Meus projetos de programação refletem minha personalidade: detalhista, técnic
     <span>PostgreSQL</span>
     <img alt="Bootstrap" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <span>Bootstrap</span>
+    <img alt="AWS" height="30" width="40" src="https://cdn.rswebsols.com/wp-content/uploads/2021/04/amazon-web-services-aws.jpg" />
+    <span>AWS</span>
   </div>
 </div>
 
