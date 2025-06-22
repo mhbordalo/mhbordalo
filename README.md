@@ -34,5 +34,6 @@ Meus projetos de programação refletem minha personalidade: detalhista, técnic
 
 <div align="center">
 ![ederson's github stats](https://github-readme-stats.vercel.app/api?username=mhbordalo&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhbordalo&theme=dark)
 </div>
