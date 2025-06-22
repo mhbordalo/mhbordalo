@@ -1,7 +1,5 @@
 ## **Marcos Bordalo** 👋
 
-Sou Marcos Bordalo!!!
-
 **Connect with me:**
 
 <a href = "mailto:mhbordalo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -27,13 +25,13 @@ Sou Marcos Bordalo!!!
   <img align="center" alt="SaSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" /> 
   <img align="center" alt="SaSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> 
 </div>
+
 ---
 
 <div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhbordalo&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhbordalo&theme=dark)
+---
 
-![ederson's github stats](https://github-readme-stats.vercel.app/api?username=mhbordalo&show_icons=true&theme=radical)
-
-
+  ![ederson's github stats](https://github-readme-stats.vercel.app/api?username=mhbordalo&show_icons=true&theme=radical)
 </div>
