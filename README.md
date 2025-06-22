@@ -38,7 +38,7 @@ Meus projetos de programação refletem minha personalidade: detalhista, técnic
     <span>Docker</span>
     <img alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
     <span>Kubernetes</span>
-    <img alt="AWS" height="30" width="40" src="https://cdn.rswebsols.com/wp-content/uploads/2021/04/amazon-web-services-aws.jpg" />
+    <img alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/npm/aws-icons@3.0.0/icons/architecture-group/AWSCloudlogo.svg" />
     <span>AWS</span>
     <img alt="Prometheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
     <span>Prometheus</span>
